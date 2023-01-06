@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T14:31:36 IST" name="Default suite" finished-at="2023-01-04T14:31:42 IST" duration-ms="5645">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T14:31:36 IST" name="Default test" finished-at="2023-01-04T14:31:42 IST" duration-ms="5645">
+      <class name="extent.report.updated.version.ExtenReportsDemo">
+        <test-method signature="extentReports()[pri:0, instance:extent.report.updated.version.ExtenReportsDemo@35ef1869]" started-at="2023-01-04T14:31:36 IST" name="extentReports" finished-at="2023-01-04T14:31:42 IST" duration-ms="5612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReports -->
+      </class> <!-- extent.report.updated.version.ExtenReportsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
